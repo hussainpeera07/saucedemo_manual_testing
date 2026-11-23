@@ -7,4 +7,4 @@ Defects found: 0
 Tools: Excel, Jira, Chrome
 
 Files:
-- Excel file with Test Plan, Test Cases, Defect Report, Summary
+- Excel file with Test Plan, Test Cases, Summary
