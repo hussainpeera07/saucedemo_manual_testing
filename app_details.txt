@@ -1,0 +1,32 @@
+log01)in login page we have
+1)user name text field
+2)password field
+3)login button
+ho02)home page components
+1)hamburger menu icon
+0.1)all items
+0.2)dynamic catalog dropdown
+0.3)about
+0.4)logout
+0.5)reset app 
+2)Swag lags logo
+3)dropdown
+1.1)price filter
+1.2)name filter
+3)add cart button 
+4)remove button
+6)cart logo button
+7)product details and cost
+8)check out button
+9)continue shopping button
+10)remove button on the product
+11)checkout information area
+12)name text field
+13)last name text field
+14)zip/post code text field
+15)payment information
+16)product information
+17)finish button
+18)cancel button
+ 
+
